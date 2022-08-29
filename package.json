@@ -1,0 +1,14 @@
+{
+  "name": "my_server",
+  "version": "1.0.0",
+  "description": "My first server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ikegah Oliver",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
